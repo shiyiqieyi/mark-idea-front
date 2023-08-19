@@ -1,5 +1,5 @@
 // for prod
-const HOST_URL = '/api'
+const HOST_URL = 'http://localhost:8090/api'
 
 
 // for test
